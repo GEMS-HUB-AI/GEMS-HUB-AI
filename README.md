@@ -102,10 +102,5 @@ We welcome collaborations with **researchers**, **students**, and **developers**
 
 ---
 
-## 📜 **License**
-All repositories under **GEMS-HUB** are released under the **MIT License**, unless otherwise noted.
-
----
-
 > _“Empowering the planet through AI, Remote Sensing, and Geospatial Intelligence.”_  
 > _In collaboration with NASA, NSF, Microsoft, NCDOT, and NOAA._
